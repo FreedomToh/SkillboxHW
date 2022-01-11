@@ -1,3 +1,0 @@
-C:/Devs/Skillbox/Lesson 33/Lesson 35.3/cmake-build-debug/CMakeFiles/35_3.dir
-C:/Devs/Skillbox/Lesson 33/Lesson 35.3/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Devs/Skillbox/Lesson 33/Lesson 35.3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
