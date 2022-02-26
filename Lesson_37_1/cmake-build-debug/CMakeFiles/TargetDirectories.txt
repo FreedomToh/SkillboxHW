@@ -1,4 +1,0 @@
-C:/Dev/Skillbox/Lesson_37_1/cmake-build-debug/CMakeFiles/Lesson37_1.dir
-C:/Dev/Skillbox/Lesson_37_1/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Dev/Skillbox/Lesson_37_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Dev/Skillbox/Lesson_37_1/cmake-build-debug/CMakeFiles/Lesson37_1_autogen.dir

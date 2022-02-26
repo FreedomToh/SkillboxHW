@@ -1,6 +1,6 @@
 MetaInfo {
     Type {
-        name: "Lesson_37_2_2.EventListSimulator"
+        name: "Lesson_37_2.EventListSimulator"
         icon: ":/qtquickplugin/images/item-icon16.png"
 
         Hints {
