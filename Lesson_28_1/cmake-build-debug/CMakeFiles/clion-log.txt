@@ -1,0 +1,1 @@
+CMakeLists.txt not found in C:\Devs\Skillbox\Lessons\Lesson_28_1 Select CMakeLists.txt

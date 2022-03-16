@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Lesson37_1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Lesson37_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lesson37_1-Debug-5e412f7e3217b84b19c4.json",
+					"name" : "Lesson37_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lesson37_1_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lesson37_1_autogen-Debug-1f3c03f4b34543ac520c.json",
+					"name" : "Lesson37_1_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lesson37_1_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lesson37_1_autogen_timestamp_deps-Debug-78c3ecb285009ccd0c7f.json",
+					"name" : "Lesson37_1_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Devs/Skillbox/Lessons/Lesson_37_1/cmake-build-debug",
+		"source" : "C:/Devs/Skillbox/Lessons/Lesson_37_1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

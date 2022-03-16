@@ -1,0 +1,8 @@
+# ninja log v5
+10	1391	6675670382960734	Lesson37_1_autogen/timestamp	3b0590431b96b25f
+10	1391	6675670382960734	Lesson37_1_autogen/mocs_compilation.cpp	3b0590431b96b25f
+10	1391	6675670382960734	C:/Devs/Skillbox/Lessons/Lesson_37_1/cmake-build-debug/Lesson37_1_autogen/timestamp	3b0590431b96b25f
+10	1391	6675670382960734	C:/Devs/Skillbox/Lessons/Lesson_37_1/cmake-build-debug/Lesson37_1_autogen/mocs_compilation.cpp	3b0590431b96b25f
+1391	4106	6675670412113533	CMakeFiles/Lesson37_1.dir/Lesson37_1_autogen/mocs_compilation.cpp.obj	9b62f37bec9c620
+1418	4184	6675670412896476	CMakeFiles/Lesson37_1.dir/main.cpp.obj	6cf1322ab832dff
+4185	4677	6675670417814831	Lesson37_1.exe	1bdedea8d5e721f0

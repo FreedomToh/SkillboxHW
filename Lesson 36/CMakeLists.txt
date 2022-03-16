@@ -3,7 +3,6 @@ project(untitled LANGUAGES CXX)
 
 set(CMAKE_INCLUDE_CURRENT_DIR ON)
 
-set(Qt5_DIR D:/Programs/QT/5.12.12/mingw73_32/lib/cmake/Qt5)
 set(CMAKE_AUTOUIC ON)
 set(CMAKE_AUTOMOC ON)
 set(CMAKE_AUTORCC ON)
