@@ -1,0 +1,15 @@
+# ninja log v5
+10	397	6696211919220977	Lesson38_1_autogen/timestamp	302fdd35a07f4310
+10	397	6696211919220977	Lesson38_1_autogen/mocs_compilation.cpp	302fdd35a07f4310
+10	397	6696211919220977	C:/Devs/Skillbox/Lessons/Lesson_38_1/cmake-build-debug/Lesson38_1_autogen/timestamp	302fdd35a07f4310
+10	397	6696211919220977	C:/Devs/Skillbox/Lessons/Lesson_38_1/cmake-build-debug/Lesson38_1_autogen/mocs_compilation.cpp	302fdd35a07f4310
+398	1837	6696211934483397	CMakeFiles/Lesson38_1.dir/Lesson38_1_autogen/mocs_compilation.cpp.obj	b2406e80dbc6db6e
+430	1856	6696211934508721	CMakeFiles/Lesson38_1.dir/main.cpp.obj	b4cfaa41c7fd830b
+415	1894	6696211934538984	CMakeFiles/Lesson38_1.dir/ImageButton.cpp.obj	d84330492f8d1390
+1899	2613	6696211942177104	Lesson38_1.exe	766298c24a535344
+6	580	6696217054275947	Lesson38_1_autogen/timestamp	302fdd35a07f4310
+6	580	6696217054275947	Lesson38_1_autogen/mocs_compilation.cpp	302fdd35a07f4310
+6	580	6696217054275947	C:/Devs/Skillbox/Lessons/Lesson_38_1/cmake-build-debug/Lesson38_1_autogen/timestamp	302fdd35a07f4310
+6	580	6696217054275947	C:/Devs/Skillbox/Lessons/Lesson_38_1/cmake-build-debug/Lesson38_1_autogen/mocs_compilation.cpp	302fdd35a07f4310
+580	2089	6696217070129732	CMakeFiles/Lesson38_1.dir/Lesson38_1_autogen/mocs_compilation.cpp.obj	b2406e80dbc6db6e
+2097	2456	6696217073237738	Lesson38_1.exe	766298c24a535344

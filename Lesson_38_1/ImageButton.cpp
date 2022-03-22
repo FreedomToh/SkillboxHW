@@ -43,7 +43,3 @@ void ImageButton::setUnpressed() {
     mCurrentButtonPixmap = mButtonUnpressedPixmap;
     update();
 }
-
-void ImageButton::playClick() {
-
-}
