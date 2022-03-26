@@ -10,7 +10,7 @@ MainWindow::MainWindow(QWidget *parent)
 
 
     connect(ui->phoneLineEdit, &QLineEdit::textEdited, [this](QString text) {
-        QRegularExpression expr("^\\+7\\d{10}$");
+        QRegularExpression expr("^\\+\\d{11}$");
 
         if (expr.match(text).hasMatch()) {
             setOk();
